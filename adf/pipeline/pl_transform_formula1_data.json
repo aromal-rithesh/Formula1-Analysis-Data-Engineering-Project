@@ -69,7 +69,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/trans/1.race_results",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/trans/1.race_results",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_window_end_date,'yyyy-MM-dd')",
@@ -102,7 +102,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/trans/2.driver_standings",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/trans/2.driver_standings",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_window_end_date,'yyyy-MM-dd')",
@@ -135,7 +135,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/trans/3.constructor_standings",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/trans/3.constructor_standings",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_window_end_date,'yyyy-MM-dd')",
@@ -161,7 +161,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/trans/4.calculated_race_results",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/trans/4.calculated_race_results",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_window_end_date,'yyyy-MM-dd')",
