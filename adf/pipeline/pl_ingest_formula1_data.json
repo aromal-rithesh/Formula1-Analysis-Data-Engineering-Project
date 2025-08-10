@@ -69,7 +69,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/1.ingest_circuits_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/1.ingest_circuits_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
@@ -99,7 +99,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/2.ingest_races_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/2.ingest_races_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
@@ -129,7 +129,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/3.ingest_constructors_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/3.ingest_constructors_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
@@ -159,7 +159,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/4.ingest_drivers_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/4.ingest_drivers_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
@@ -189,7 +189,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/5.ingest_results_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/5.ingest_results_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
@@ -219,7 +219,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/6.ingest_pit_stops_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/6.ingest_pit_stops_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
@@ -249,7 +249,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/7.ingest_lap_times_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/7.ingest_lap_times_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
@@ -279,7 +279,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Formula1/ingestion/8.ingest_qualifying_file",
+								"notebookPath": "/Users/aromalritesh29@gmail.com/Formula1-Analysis-Data-Engineering-Project/databricks/Formula1/ingestion/8.ingest_qualifying_file",
 								"baseParameters": {
 									"p_data_source": {
 										"value": "@variables('v_data_source')",
